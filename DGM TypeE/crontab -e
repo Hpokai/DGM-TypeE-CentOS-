@@ -1,0 +1,6 @@
+
+@reboot sudo python3 /home/pi/Scripts/ResetSys.pyc
+@reboot sudo python3 /home/pi/Scripts/ScriptWeb.pyc
+@reboot sudo python3 /home/pi/Scripts/ScriptProcess.pyc
+@reboot sudo python3 /home/pi/Scripts/RerunProcess.pyc
+@reboot sudo python3 /home/pi/Scripts/HotplugIpSetting.pyc

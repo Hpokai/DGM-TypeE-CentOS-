@@ -1,0 +1,9 @@
+from django
+.contrib import admin
+from WebHMI.models import Server, ServerInfo
+
+# Register your models here.
+
+admin.site.register(Server)
+admin.site.register(ServerInfo)
+
